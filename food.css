@@ -1,0 +1,19 @@
+.food {
+    margin : 15px ;
+    padding : 5px ;
+    color : black ;
+    background-color: #e72d9f;
+    text-align : center ;
+    font-family : 'Bold';
+}
+p.food-title {
+    font-size : 24px ;
+    text-align: center ;
+    font-weight : bold ;
+    margin-bottom : 10px ;
+}
+.emergency {
+    Color : red ;
+    font-size: larger;
+    font-weight : bold ;
+}
